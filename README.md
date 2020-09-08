@@ -48,4 +48,4 @@ DATABASE_URL="postgres://postgres:password@localhost:5432/youtuberclone"
 
 Then run <code>npm install</code> to install required packages
 
-Run <code>node server or npm run start</code> to start the server
+Run <code>node server or npm start</code> to start the server
